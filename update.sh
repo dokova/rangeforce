@@ -1,1 +1,1 @@
-cat /home/jacob/code.txt >> answer.txt
+echo asd >> answer.txt
